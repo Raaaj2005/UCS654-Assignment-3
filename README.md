@@ -28,8 +28,8 @@ Where:
 
 Setup & Prerequisites
 
-1. DependenciesThis project requires Python and the following libraries: pandas: For data manipulation. numpy: For numerical operations and transformations. scipy: For curve fitting (optimization). To install them, run: Bashpip install pandas numpy scipy
-2. DatasetThe project uses the India Air Quality Data (city_day.csv). Source: Kaggle - India Air Quality DataEnsure the file is placed in the root directory or update the path in assignment_solver.py. Usage: Clone the repository: Bashgit clone [https://github.com/Raaaj2005/Assignment-3-Advanced-Mathematics.git](https://github.com/Raaaj2005/Assignment-3-Advanced-Mathematics.git)
+1. Dependencies - This project requires Python and the following libraries: pandas: For data manipulation. numpy: For numerical operations and transformations. scipy: For curve fitting (optimization). To install them, run: Bashpip install pandas numpy scipy
+2. Dataset - The project uses the India Air Quality Data (city_day.csv). Source: Kaggle - India Air Quality DataEnsure the file is placed in the root directory or update the path in assignment_solver.py. Usage: Clone the repository: Bashgit clone [https://github.com/Raaaj2005/Assignment-3-Advanced-Mathematics.git](https://github.com/Raaaj2005/Assignment-3-Advanced-Mathematics.git)
 Navigate to the project folder. Run the solver script: Bashpython assignment_solver.py
 
 ## Results & Output

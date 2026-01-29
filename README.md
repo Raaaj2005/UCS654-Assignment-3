@@ -32,10 +32,14 @@ Setup & Prerequisites
 2. DatasetThe project uses the India Air Quality Data (city_day.csv). Source: Kaggle - India Air Quality DataEnsure the file is placed in the root directory or update the path in assignment_solver.py. Usage: Clone the repository: Bashgit clone [https://github.com/Raaaj2005/Assignment-3-Advanced-Mathematics.git](https://github.com/Raaaj2005/Assignment-3-Advanced-Mathematics.git)
 Navigate to the project folder. Run the solver script: Bashpython assignment_solver.py
 
-Results & Output
+## Results & Output
 
-The script calculates and outputs the optimal parameters required for submission:Lambda ($\lambda$)Mu ($\mu$)c
+The script calculates and outputs the optimal parameters required for submission:
+* **Lambda ($\lambda$)**
+* **Mu ($\mu$)**
+* **c**
 
-AuthorName: Raj
-Roll Number: 102317090
-University: Thapar Institute of Engineering and Technology
+## Author
+* **Name:** Raj
+* **Roll Number:** 102317090
+* **University:** Thapar Institute of Engineering and Technology

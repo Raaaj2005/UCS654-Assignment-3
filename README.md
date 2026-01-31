@@ -38,8 +38,8 @@ Setup & Prerequisites
 
 The script calculates and outputs the optimal parameters required for submission:
 * **Lambda ($\lambda$)** : 0.0033501700806893874
-* **Mu ($\mu$)** 
-* **c**
+* **Mu ($\mu$)** : 19.707780551678745
+* **c** : 0.03181652715241613
 
 ## Author
 * **Name:** Raj
